@@ -59,3 +59,4 @@ plt.legend(['Regression Line','Data points'])
 <img width="911" height="660" alt="Screenshot 2026-02-26 153827" src="https://github.com/user-attachments/assets/bfcd9947-51e9-4f66-9f41-ede8a017a5d2" />
 
 # Result
+ The correlation of regression is done and the output is verified successfully
