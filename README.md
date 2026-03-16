@@ -11,14 +11,10 @@ Python
 
 # Theory:
 
-Correlation describes the strength of an association between two variables, and is completely symmetrical, the correlation between A and B is the same as the correlation between B and A. However, if the two variables are related it means that when one changes by a certain amount the other changes on an average by a certain amount.  
-
-If y represents the dependent variable and x the independent variable, this relationship is described as the regression of y on x. The relationship can be represented by a simple equation called the regression equation. The regression equation representing how much y changes with any given change of x can be used to construct a regression line on a scatter diagram, and in the simplest case this is assumed to be a straight line.
+Correlation describes the strength of an association between two variables, and is completely symmetrical, the correlation between A and B is the same as the correlation between B and A. However, if the two variables are related it means that when one changes by a certain amount the other changes on an average by a certain amount.  If y represents the dependent variable and x the independent variable, this relationship is described as the regression of y on x. The relationship can be represented by a simple equation called the regression equation. The regression equation representing how much y changes with any given change of x can be used to construct a regression line on a scatter diagram, and in the simplest case this is assumed to be a straight line.
 
 # Procedure :
-
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
-
 # Program :
 ~~~
 Developed by: UDHAYA GIRI V
@@ -57,6 +53,5 @@ plt.legend(['Regression Line','Data points'])
 # Output
 <img width="815" height="115" alt="Screenshot 2026-02-26 153812" src="https://github.com/user-attachments/assets/22ca39d6-12ff-4f1e-accc-19ac1a291287" />
 <img width="911" height="660" alt="Screenshot 2026-02-26 153827" src="https://github.com/user-attachments/assets/bfcd9947-51e9-4f66-9f41-ede8a017a5d2" />
-
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
